@@ -14,6 +14,7 @@ namespace CatalogoDeArticulos
         [STAThread]
         static void Main()
         {
+            //MODIF
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Frmprincipal());
